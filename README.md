@@ -1,11 +1,8 @@
-# hey, I'm Waleed 👋
+# hey, I'm Waleed 👋   <img height="auto" width="200" align="right" style="border-radius:50%"  src="profile.jpeg">
 
 I'm a full stack developer from Quetta, Balochistan — a city most people haven't heard of, which honestly makes building things on the internet feel a little more meaningful.
 
 I studied Computer Science at BUITEMS, graduated with a 3.86 GPA, and somewhere along the way realized I care less about the grade and more about the thing I'm actually building.
-
----
-
 ## what I'm working on
 
 **[LearningoPK](https://github.com/codleed)** — a free learning platform for Pakistani students (Balochistan, Federal, Punjab, and Sindh boards). The kind of resource I wish existed when I was studying. Built as a pnpm monorepo with Next.js, Express.js, Drizzle ORM, PostgreSQL, and Redis. The part I care most about: making physics numericals actually make sense through interactive visual illustrations.
